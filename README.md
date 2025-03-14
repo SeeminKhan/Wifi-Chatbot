@@ -19,7 +19,7 @@ https://github.com/SeeminKhan/Wifi-Chatbot.git
 
 2. **Navigate to the project folder**  
 ```bash
-cd netguard-chatbot
+cd wifi-chatbot
 ```
 
 3. **Install dependencies**  
