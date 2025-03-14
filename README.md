@@ -1,4 +1,4 @@
-# 🛡️ NetGuard Chatbot
+# 🛡️WiFi Chatbot
 
 NetGuard is an AI-based chatbot that educates users about WiFi security threats and helps them stay safe while using public networks. The chatbot simulates a conversation upon connecting to a suspicious network, providing insights into potential hacking techniques and protective measures.
 
@@ -14,7 +14,7 @@ NetGuard is an AI-based chatbot that educates users about WiFi security threats 
 ## 🏗️ **Installation**
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/<your-username>/netguard-chatbot.git
+https://github.com/SeeminKhan/Wifi-Chatbot.git
 ```
 
 2. **Navigate to the project folder**  
