@@ -35,5 +35,4 @@ GEMINI_API_KEY=your-gemini-api-key
 5. **Start the development server**  
 ```bash
 npm run dev
-```
-```
+
