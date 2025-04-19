@@ -54,7 +54,7 @@ export default function Chatbot() {
               👾 Welcome to <span className="text-green-400">NetGuard!</span>
             </h2>
             <p className="text-lg text-stone-400 leading-relaxed max-w-2xl">
-              You've connected to a{" "}
+              You&apos;ve connected to a{" "}
               <span className="font-bold">suspicious network...</span>
               <span className="text-red-400 font-semibold"> Are you being hacked?</span> 🕵️‍♂️
             </p>
@@ -66,7 +66,7 @@ export default function Chatbot() {
               {[
                 "🔒 What are the risks of using public WiFi?",
                 "🦹‍♂️ How do hackers create fake WiFi networks?",
-                "💡 What’s a man-in-the-middle attack and how do I prevent it?",
+                "💡 What&apos;s a man-in-the-middle attack and how do I prevent it?",
                 "📶 How to safely browse on public WiFi without getting hacked?",
               ].map((suggestion, index) => (
                 <button
