@@ -66,7 +66,7 @@ export default function Chatbot() {
               {[
                 "🔒 What are the risks of using public WiFi?",
                 "🦹‍♂️ How do hackers create fake WiFi networks?",
-                "💡 What&apos;s a man-in-the-middle attack and how do I prevent it?",
+                "💡 What's a man-in-the-middle attack and how do I prevent it?",
                 "📶 How to safely browse on public WiFi without getting hacked?",
               ].map((suggestion, index) => (
                 <button
